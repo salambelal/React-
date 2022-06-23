@@ -14,7 +14,8 @@ function App(){
 <Map />
 <Age /> */}
     
-  </div>)
+  </div>
+  );
 
 }
 export default App;
